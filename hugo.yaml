@@ -30,6 +30,7 @@ services:
         id:
 
 pagination:
+    # 几篇博客为一页
     pagerSize: 3
 
 permalinks:
