@@ -1,8 +1,8 @@
-baseurl: https://penggege18.github.io/hugo-blog-pages/
+baseurl: https://blog.230120.xyz
 languageCode: zh-cn
 theme: hugo-theme-stack
 title: 鹏哥哥
-copyright: ""
+copyright: 
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -46,7 +46,7 @@ params:
 
     footer:
         since: 2024
-        customText: "鹏哥哥博客站点,基于hugo构建,主题hugo-theme-stack"
+        customText: "鹏哥哥博客站点，基于hugo构建，主题hugo-theme-stack"
 
     dateFormat:
         published: 2006-01-02 15:04
