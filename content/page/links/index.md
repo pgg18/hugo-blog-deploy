@@ -16,7 +16,7 @@ links:
   - title: 快手
     description: 拥抱每一种生活
     website: https://www.kuaishou.com/profile/3x3bxzxu9d5urau
-    image: github.png
+    image: kuaishou.png
   - title: GitHub
     description: 开源社区
     website: https://github.com/PengGeGe18/
@@ -24,7 +24,7 @@ links:
   - title: 微博
     description: 随时随地发现新鲜事
     website: https://weibo.com/u/2732442644
-    image: github.png
+    image: weibo.png
   
 menu:
     main: 
