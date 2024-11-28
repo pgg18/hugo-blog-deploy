@@ -31,7 +31,7 @@ services:
 
 pagination:
     # 几篇博客为一页
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -212,8 +212,13 @@ menu:
           name: 小红书
           url: https://www.xiaohongshu.com/user/profile/63db4526000000002601115a
           params:
-              icon: brand-twitter
+            icon: brand-xiaohongshu
 
+        - identifier: douyin
+          name: 抖音
+          url: https://www.douyin.com/user/MS4wLjABAAAA8WEPx2Z5i0-VpZdg0_7jZmWA-IcKQtAFnaC7YBcUZIk?from_tab_name=main
+          params:
+            icon: brand-douyin
 related:
     includeNewer: true
     threshold: 60
