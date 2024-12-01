@@ -202,23 +202,36 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/PengGeGe18
-          params:
-              icon: brand-github
-
-        - identifier: xiaohongshu
-          name: 小红书
-          url: https://www.xiaohongshu.com/user/profile/63db4526000000002601115a
-          params:
-            icon: brand-xiaohongshu
-
         - identifier: douyin
           name: 抖音
           url: https://www.douyin.com/user/MS4wLjABAAAA8WEPx2Z5i0-VpZdg0_7jZmWA-IcKQtAFnaC7YBcUZIk?from_tab_name=main
           params:
             icon: brand-douyin
+        - identifier: xiaohongshu
+          name: 小红书
+          url: https://www.xiaohongshu.com/user/profile/63db4526000000002601115a
+          params:
+            icon: brand-xiaohongshu
+        - identifier: bilibili
+          name: B站
+          url: https://space.bilibili.com/588031807
+          params:
+            icon: brand-bilibili
+        - identifier: kuaishou
+          name: 快手
+          url: https://www.kuaishou.com/profile/3x3bxzxu9d5urau
+          params:
+            icon: brand-kuaishou  
+        - identifier: github
+          name: GitHub
+          url: https://github.com/PengGeGe18
+          params:
+              icon: brand-github
+        - identifier: weibo
+          name: 微博
+          url: https://weibo.com/u/2732442644
+          params:
+              icon: brand-weibo
 related:
     includeNewer: true
     threshold: 60
