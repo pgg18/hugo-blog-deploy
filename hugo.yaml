@@ -1,7 +1,7 @@
-baseurl: https://blog.230120.xyz
+baseurl: https://pgg18.github.io/blog
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: 鹏哥哥
+title: pgg18
 copyright: 
 
 # Theme i18n support
@@ -15,11 +15,11 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: 鹏哥哥
+        title: pgg18
         weight: 1
         params:
             sidebar:
-                subtitle: 鹏哥哥的hugo博客
+                subtitle: pgg18的hugo博客
 
 services:
     # Change it to your Disqus shortname before using
@@ -46,7 +46,7 @@ params:
 
     footer:
         since: 2024
-        customText: "鹏哥哥博客站点，基于hugo构建，主题hugo-theme-stack"
+        customText: "pgg18博客站点，基于hugo构建，主题hugo-theme-stack"
 
     dateFormat:
         published: 2006-01-02 15:04
@@ -204,7 +204,7 @@ menu:
     social:
         - identifier: douyin
           name: 抖音
-          url: https://www.douyin.com/user/MS4wLjABAAAA8WEPx2Z5i0-VpZdg0_7jZmWA-IcKQtAFnaC7YBcUZIk?from_tab_name=main
+          url: https://www.douyin.com/
           params:
             icon: brand-douyin
         - identifier: xiaohongshu
@@ -227,11 +227,6 @@ menu:
           url: https://github.com/PengGeGe18
           params:
               icon: brand-github
-        - identifier: weibo
-          name: 微博
-          url: https://weibo.com/u/2732442644
-          params:
-              icon: brand-weibo
 related:
     includeNewer: true
     threshold: 60
